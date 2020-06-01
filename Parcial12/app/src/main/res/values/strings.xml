@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Parcial1</string>
+    <string-array name="tipo">
+        <item>Estudiante</item>
+        <item>Profesor</item>
+    </string-array>
+    <string-array name="nombre">
+        <item>Alejandro De Leon</item>
+        <item>Profesor</item>
+    </string-array>
+</resources>
